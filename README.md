@@ -3,8 +3,8 @@
 An Android Augmented Reality (AR) mobile application developed in Unity 6 (`6000.6.9f1`) using C#, AR Foundation, Google ARCore, and custom HLSL shaders.
 
 ## Proponents
-- Buena, Vince Harvey
 - Carillo, Harvey
+- Buena, Vince Harvey
 - Marqueses, Mant Ian
 - Palaganas, Anthony
 - Rafael, Sebastian
